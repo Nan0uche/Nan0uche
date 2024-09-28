@@ -15,5 +15,5 @@ Je suis un passionné de programmation et de cybersécurité ! J'aime apprendre,
 
 ### 🔗 Me retrouver
 
-- **LinkedIn**: [DERC Nathan]([[https://www.linkedin.com/in/ton_nom](https://www.linkedin.com/in/nathan-derc-857b892a0/)]
-- **Twitter**: [@Nan0ucheuh]([[https://twitter.com/TonPseudo](https://x.com/Nan0ucheuh?t=jscLcXjLA-2BKjxNYsUUdg&s=09)]
+- **LinkedIn**: [DERC Nathan]([https://www.linkedin.com/in/nathan-derc-857b892a0])
+- **Twitter**: [@Nan0ucheuh]([https://twitter.com/Nan0ucheuh])

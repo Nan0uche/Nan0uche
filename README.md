@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Salut, moi c'est [Nanouche] !
 
-<!--
-**Nan0uche/Nan0uche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 À propos de moi
+Je suis un passionné de programmation et de cybersécurité ! J'aime apprendre, explorer de nouvelles technologies et créer des projets qui ont un impact. Actuellement, je travaille avec les technologies JavaScript, Node.js et les bots Discord.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Compétences Techniques
+
+- **Langages**: Golang, JavaScript, Python, C/C++, HTML, CSS
+- **Frameworks et Librairies**: Node.js
+- **Bases de données**: MongoDB, MySQL
+- **Outils**: Git, Visual Studio Code
+- 
+---
+
+### 🔗 Me retrouver
+
+- **LinkedIn**: [DERC Nathan]([https://www.linkedin.com/in/ton_nom](https://www.linkedin.com/in/nathan-derc-857b892a0/))
+- **Twitter**: [@Nan0ucheuh]([https://twitter.com/TonPseudo](https://x.com/Nan0ucheuh?t=jscLcXjLA-2BKjxNYsUUdg&s=09))
